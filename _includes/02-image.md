@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Bill Wurtz: The sun is a deadly lazer](https://i.ytimg.com/vi/o78PdiDpXAI/maxresdefault.jpg)
